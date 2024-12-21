@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen Samuditha</h1>
 <h3 align="center">A passionate Electronic and Telecommunication Engineering Undergraduate from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **Micromouse Project**
+- 🔭 I’m currently working on my **Micromouse Project**
 
 - 🌱 I’m currently learning **Automation with Python.**
 
